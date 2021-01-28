@@ -1,4 +1,4 @@
-import {gsap} from 'gsap'; 
+
 
 
 //selecting the questions
