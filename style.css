@@ -61,7 +61,7 @@
   width: 100%;
   position: relative;
   height: 136px;
-  background-image: url(../images/bg-pattern-mobile.svg);
+  background-image: url(bg-pattern-mobile.svg);
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -70,7 +70,7 @@
   .container .image-holder {
     width: 50%;
     height: 100%;
-    background-image: url(../images/bg-pattern-desktop.svg);
+    background-image: url(bg-pattern-desktop.svg);
     background-position: -370px -250px;
     background-size: 165% 165%;
     overflow: hidden;
@@ -207,7 +207,7 @@
 
 @media (min-width: 992px) {
   .container::before {
-    content: url(../images/illustration-box-desktop.svg);
+    content: url(illustration-box-desktop.svg);
     position: absolute;
     left: -14%;
     top: 38%;
